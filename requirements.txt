@@ -1,0 +1,17 @@
+# Core data processing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+plotly>=5.10.0
+
+# Machine learning & clustering
+scikit-learn>=1.0.0
+hdbscan>=0.8.28
+
+# Astronomy / Gaia query
+astroquery>=0.4.6
+
+# Optional: for better performance
+scipy>=1.7.0
